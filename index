@@ -296,13 +296,13 @@
       <div class="carousel-track">
         <div class="card" data-index="0">
           <img
-            src="blob:https://gemini.google.com/d2aadc23-0755-4244-b8f1-51e220b440c7"
+            src="https://gemini.google.com/d2aadc23-0755-4244-b8f1-51e220b440c7"
             alt="Team Member 1"
           />
         </div>
         <div class="card" data-index="1">
           <img
-            src="blob:https://gemini.google.com/04d69549-586f-437a-a89f-7544eda11292"
+            src="https://gemini.google.com/04d69549-586f-437a-a89f-7544eda11292"
             alt="Team Member 2"
           />
         </div>
